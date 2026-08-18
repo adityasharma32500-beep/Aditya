@@ -1,0 +1,6 @@
+{
+  "name": "Path Arrows Puzzle",
+  "description": "A puzzle game where you untangle arrows by swiping them out of the grid.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
